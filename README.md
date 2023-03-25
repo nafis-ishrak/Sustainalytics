@@ -1,4 +1,4 @@
-# Project Name: Sentiment Analysis on ESG News Headlines of S&P 500 Companies
+# Project Name: ESG News Sentiment Analysis for S&P 500 Companies
 
 ## Overview
 The objective of this project was to perform sentiment analysis on ESG (Environmental, Social, and Governance) news headlines of S&P 500 companies and create a reputation graph to find a correlation with their financial performance. The project used RoBERTa for sentiment analysis and linear regression to generate the reputation graph.
