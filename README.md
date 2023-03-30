@@ -25,7 +25,7 @@ Linear regression was then applied to the negative, neutral, and positive emotio
 Finally, the project used Seaborn to create a reputation graph that allowed users to explore the relationship between the emotions of news headlines and the financial performance of S&P 500 companies.
 
 ## Results
-The analysis of the ESG news headlines dataset revealed several interesting insights. The reputation graph showed that companies with steep gradients of positive/negative emotions had a positive correlation to their stock market performance. This suggests that the sentiment of news headlines can have a significant impact on the financial performance of companies.
+The analysis of the ESG news headlines dataset revealed several interesting insights. The reputation graph showed that companies with steep gradients of positive/negative emotions had a respective correlation to their stock market performance. This suggests that the sentiment of news headlines can have a significant impact on the financial performance of companies.
 
 ## Conclusion
 In conclusion, this project demonstrates the potential of sentiment analysis on news headlines to identify patterns and insights related to the financial performance of companies. The results of this analysis can be used to inform future research on the relationship between news sentiment and stock market performance.
